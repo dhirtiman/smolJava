@@ -72,7 +72,6 @@ public class RockPS {
                     System.out.println("Your choice: " + hands[choiceIndex] + "\nComputer's choice: " + hands[chance]);
                     Thread.sleep(4000);
                 }
-                
 
             } while (choice != 'q');
             System.out.println("Exiting....");
