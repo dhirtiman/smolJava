@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 SandBox.java
+RPSGame.java
 
 # Log file
 *.log
